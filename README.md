@@ -1,6 +1,14 @@
-[![Build Status](https://secure.travis-ci.org/kriswallsmith/Buzz.png?branch=master)](http://travis-ci.org/kriswallsmith/Buzz)
+[![Build Status](https://secure.travis-ci.org/FGM/Buzz.png?branch=master)](http://travis-ci.org/FGM/Buzz)
+
+-------------------------------------------------------------------------------
+This repository contains a fork of Buzz for debugging purposes. You probably
+want to use the original, available on:
+
+  https://github.com/kriswallsmith/Buzz
+-------------------------------------------------------------------------------
 
 Buzz is a lightweight PHP 5.3 library for issuing HTTP requests.
+
 
 ```php
 <?php
