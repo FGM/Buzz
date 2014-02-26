@@ -8,9 +8,9 @@ use Buzz\Exception\InvalidArgumentException;
 
 class LoggerListener implements ListenerInterface
 {
-    private $logger;
-    private $prefix;
-    private $startTime;
+    protected $logger;
+    protected $prefix;
+    protected $startTime;
 
     public function __construct($logger, $prefix = null)
     {
